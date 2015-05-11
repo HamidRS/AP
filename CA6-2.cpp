@@ -27,7 +27,8 @@ int str2int(string str){
 
 
 
-
+//salam
+//kos kesh khodet nafahmi
 
 class Game {
 	string name , genre;
